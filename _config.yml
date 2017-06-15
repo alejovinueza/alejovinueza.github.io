@@ -30,8 +30,8 @@ force-https: False
 
 lang: "en"
 author: "Alejandro Vinueza"
-title: "Alejandro Vinueza"
-description: "Blog and website of Alejandro Vinueza, blogging mainly for iOS."
+title: "iOS Development | Alejandro Vinueza"
+description: "Blog and website of Alejandro Vinueza, blogging mainly for iOS development."
 keywords: "iOS, swift, xcode, cocoa, travel, food"
 favicon: "/img/favicon.ico"
 
