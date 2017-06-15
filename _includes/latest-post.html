@@ -13,7 +13,7 @@
         <div class="{% if posts.size == 1 %} col-md-12 {% else %} col-md-6 {% endif %}">
           <h4> <strong> {{ post.date | date_to_string }} </strong>
             <small>.
-              <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}">
+              <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
               {{ post.category }}
               </a>
             .</small>
