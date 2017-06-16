@@ -165,12 +165,14 @@ author_blurb_image: "https://graph.facebook.com/100001884093847/picture?type=lar
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/VinuezaAlejandro"
-  - title: "twitter"
-    url: "https://twitter.com/AlejoVinueza"
+  - title: "linkedin"
+    url: "https://es.linkedin.com/in/alejandrovinueza"
   - title: "github"
     url: "https://github.com/AlejoVinueza"
+  - title: "twitter"
+    url: "https://twitter.com/AlejoVinueza"
+  - title: "facebook"
+    url: "https://facebook.com/VinuezaAlejandro"
   - title: "rss"
     url: "/feed.xml"
 
