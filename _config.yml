@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I talk about iOS development."
   - text: "But somewhere around here I talk about travel and food. 😅"
 
-me-img: "https://graph.facebook.com/100001884093847/picture?type=large&width=500&height=500"
+me-img: "https://scontent.fmad10-2.fna.fbcdn.net/v/t1.0-9/118150676_4275024075903687_354466547372737431_n.jpg?_nc_cat=103&cb=846ca55b-311e05c7&ccb=2&_nc_sid=09cbfe&_nc_ohc=LnrJilf9LxUAX8rwwrq&_nc_ht=scontent.fmad10-2.fna&oh=1d938a561717442d16333d4c37b4481b&oe=5FC1855D"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
